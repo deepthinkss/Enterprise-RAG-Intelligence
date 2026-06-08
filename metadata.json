@@ -1,0 +1,8 @@
+{
+  "name": "Enterprise RAG Intelligence",
+  "description": "Secure, context-aware RAG system featuring semantic multi-silo search, strict role-based access control (RBAC), multi-source reasoning, and traceable citations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
